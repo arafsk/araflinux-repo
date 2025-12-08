@@ -3,7 +3,7 @@
 rm araflinux_repo*
 
 echo "repo-add"
-repo-add -n -R araflinux_repo.db.tar.gz ./*.zst
+repo-add -n -R araflinux_repo.db.tar.gz *.pkg.tar.zst
 
 sleep 1
 
