@@ -3,7 +3,7 @@
 rm araflinux-repo*
 
 echo "repo-add"
-repo-add -n -R araflinux-repo.db.tar.gz *.pkg.tar.zst
+repo-add -n -R araflinux-repo.db.tar.gz kiro-dummy-git-*.pkg.tar.zst    
 
 sleep 1
 
