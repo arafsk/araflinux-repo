@@ -11,9 +11,9 @@ rm araflinux.db
 
 rm araflinux.files
 
-mv araflinux.db.tar.gz araflinux-repo.db
+mv araflinux.db.tar.gz araflinux.db
 
-mv araflinux.files.tar.gz araflinux-repo.files
+mv araflinux.files.tar.gz araflinux.files
 
 echo "####################################"
 echo "Repo Updated!!"
