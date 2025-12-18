@@ -8,7 +8,7 @@ repo-add -n -R araflinux_repo.db.tar.gz *.pkg.tar.zst
 sleep 1
 
 rm araflinux_repo.db
-
+thejme a
 rm araflinux_repo.files
 
 mv araflinux_repo.db.tar.gz araflinux_repo.db
